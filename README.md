@@ -2,6 +2,17 @@
 
 I have made 3 models (cube, monkey, spike) in blender and imported them. There are different features implemented including lighting, shading, translation of meshes and lights .
 
+### How to use?
+
+Run: 
+
+```shell
+npm install --global http-server
+http-server
+```
+
+Choose one of the local server and run `index.html`.
+
 ### Implementation
 
 Each task can done by pressing a certain key on keyboard. These are the following keys and their features:
